@@ -1,1 +1,39 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<!--    Different ways to put text content on HTML page
+
+(paragraph, list, table)-->
+<body>
+
+    <p>This is paragraph</p>
+
+    <ul>
+        <li>anurag</li>
+        <li>nandkishor</li>
+        <li>arshad</li>
+    </ul>
+
+    <table border="1" >
+        <tr>
+            <th>Name</th>
+            <th>Trade</th>
+            <th>City</th>
+        </tr>
+        <tr>
+            <td>John</td>
+            <td>Engineer</td>
+            <td>London</td>
+
+        </tr>
+    </table>
+
+    
+</body>
+</html>
